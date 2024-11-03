@@ -10,7 +10,7 @@ Building the Project
 3. Run the executable:
    ./vcs
 
-4. After compiling the program a file named master.txt will automatically created by the program and you can add your text content in that. The branch name will be given as master.
+4. After compiling the program you have to create a master.txt file which will have the text content.After this a master branch will be automatically created.
 
 Features and Usage
 -----------------
