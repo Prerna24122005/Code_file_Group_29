@@ -75,7 +75,7 @@ gcc -o vcs vcs.c
 Select 2
 Enter branch name: feature1
 
-# Make a commit
+# Commit Changes
 Select 1
 Enter commit message: Initial commit
 
